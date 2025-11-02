@@ -1,1 +1,6 @@
-My attempt to implement the Transformer architecture from the paper Attention is all you need (https://arxiv.org/pdf/1706.03762)
+In this repo I try to implement the architectures behind modern llms 
+
+
+So far done with: 
+1. Transformer 
+2. KV Cache
