@@ -5,5 +5,6 @@ So far done with:
 1. Transformer 
 2. KV Caching
 3. Flash Attention ( just a rough algorithm no cuda code )
+5. Rotary Positional Embeddings
 
 Also check out my blog where I sometimes explain these concepts: https://kanishkez.github.io/#blogs
